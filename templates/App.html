@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="../css/style.comp.css">
+        <link rel="shortcut icon" type="image/png" href="../img/favicon.png">
+        
+        <title>Steaming.pl | Statystki Polskich Gier z platformy Steam</title>
+    </head>
+    <body>
+      <div class="container">
+        <nav class="navigation">
+          <a class="navigation__home-link" href="/"><img src="../img/steaming-logo.png" alt="Steaming.pl logo" class="navigation__logo"></a>
+          
+          <div class="navigation__games">
+            
+            {%NAV_GAMES%}
+
+          </div>
+          <footer class="navigation__footer">
+            <p class="footer__paragraph">Steaming.pl &copy; all rights reserverd 2020</p>
+            <p class="footer__paragraph">Design: <a href="https://seetheseastudio.com" class="footer__link">See the Sea Studio</a></p>
+            <a class="footer__link" href="mailto:info@seetheseastudio.com">info@seetheseastudio.com</a>
+          </footer>
+        </nav>
+
+        <!-- Template of main content -->
+          {%MAIN_CONTENT%}
+      </div>
+    </body>
+</html>

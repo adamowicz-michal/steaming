@@ -1,0 +1,222 @@
+[
+  {
+    "id": 0,
+    "gameName": "Beat Cop",
+    "producer": "Crounching Koalas",
+    "publisher": "11 Bit Studios",
+    "releaseDate": 2017,
+    "steamId": 461950,
+    "imgName": "beatcop.jpg",
+    "imgAlt": "Beat Cop detective game",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 1,
+    "gameName": "Car Mechanic Simulator 2018",
+    "producer": "Red Dot Games",
+    "publisher": "PlayWay",
+    "releaseDate": 2017,
+    "steamId": 645630,
+    "imgName": "carmechanicsimulator2018.jpg",
+    "imgAlt": "Car Mechanic Simulator Logo",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 2,
+    "gameName": "Children of Morta",
+    "producer": "Dead Mage",
+    "publisher": "11 Bit Studios",
+    "releaseDate": 2019,
+    "steamId": 330020,
+    "imgName": "childrenofmorta.jpg",
+    "imgAlt": "Children of Morta logo",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 3,
+    "gameName": "Cyberpunk 2077",
+    "producer": "CD Projekt Red",
+    "publisher": "CD Projekt Red",
+    "releaseDate": 2020,
+    "steamId": 1091500,
+    "imgName": "cyberpunk2077.jpg",
+    "imgAlt": "Cyberpunk 2077 tytuł",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 4,
+    "gameName": "Dying Light",
+    "producer": "Techland",
+    "publisher": "Warner Bros.",
+    "releaseDate": 2015,
+    "steamId": 239140,
+    "imgName": "dyinglight.jpg",
+    "imgAlt": "Dying Light - parkour game",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 5,
+    "gameName": "Frostpunk",
+    "producer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "releaseDate": 2018,
+    "steamId": 323190,
+    "imgName": "frostpunk.jpg",
+    "imgAlt": "Frostpunk gra",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 6,
+    "gameName": "Green Hell",
+    "producer": "Creepy Jar",
+    "publisher": "Forever Entertainment S.A.",
+    "releaseDate": 2019,
+    "steamId": 815370,
+    "imgName": "greenhell.jpg",
+    "imgAlt": "Green Hell - gra survival",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 7,
+    "gameName": "House Flipper",
+    "producer": "Frozen District / Empyrean",
+    "publisher": "PlayWay",
+    "releaseDate": 2018,
+    "steamId": 613100,
+    "imgName": "houseflipper.jpg",
+    "imgAlt": "House Flipper",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 8,
+    "gameName": "Lords of the Fallen",
+    "producer": "CI Games / City Interactive / Deck13 Interactive / Empyrean",
+    "publisher": "Bandai Namco",
+    "releaseDate": 2014,
+    "steamId": 265300,
+    "imgName": "lordsoffallen.jpg",
+    "imgAlt": "Lords of the Fallen",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 9,
+    "gameName": "Moonlighter",
+    "producer": "Digital Sun Games",
+    "publisher": "11 Bit Studios",
+    "releaseDate": 2018,
+    "steamId": 606150,
+    "imgName": "moonlighter.jpg",
+    "imgAlt": "Moonlighter cave entrance",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 10,
+    "gameName": "Observer",
+    "producer": "Bloober Team",
+    "publisher": "Aspyr Media Inc",
+    "releaseDate": 2017,
+    "steamId": 514900,
+    "imgName": "observer.jpg",
+    "imgAlt": "Observer gra horror",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 11,
+    "gameName": "Sniper Ghost Warrior 3",
+    "producer": "CI Games / City Interactive",
+    "publisher": "CI Games / City Interactive",
+    "releaseDate": 2017,
+    "steamId": 368070,
+    "imgName": "sgw3.jpg",
+    "imgAlt": "Sniper Ghost Warrior 3",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 12,
+    "gameName": "Sniper Ghost Warrior Contracts",
+    "producer": "CI Games / City Interactive",
+    "publisher": "CI Games / City Interactive",
+    "releaseDate": 2019,
+    "steamId": 973580,
+    "imgName": "sgwcontracts.jpg",
+    "imgAlt": "Sniper Ghost Warrior Contracts",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 13,
+    "gameName": "This War of Mine",
+    "producer": "11 Bit Studios",
+    "publisher": "11 Bit Studios",
+    "releaseDate": 2014,
+    "steamId": 282070,
+    "imgName": "thiswarofmine.jpg",
+    "imgAlt": "This War of Mine",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 14,
+    "gameName": "Uboat",
+    "producer": "Deep Water Studio",
+    "publisher": "PlayWay",
+    "releaseDate": 2021,
+    "steamId": 494840,
+    "imgName": "uboat.jpg",
+    "imgAlt": "Uboat - submarine simulator",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 15,
+    "gameName": "Ultimate Fishing Simulator",
+    "producer": "Bit Golem / Ultimate Games",
+    "publisher": "Ultimate Games",
+    "releaseDate": 2017,
+    "steamId": 468920,
+    "imgName": "ultimatefishingsim.jpg",
+    "imgAlt": "Fishing Simulator ekran",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id": 16,
+    "gameName": "Wiedźmin",
+    "producer": "CD Projekt Red",
+    "publisher": "Atari / Infogames",
+    "releaseDate": 2007,
+    "steamId": 20900,
+    "imgName": "wiedzmin.jpg",
+    "imgAlt": "Wiedźmin",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id" : 17,
+    "gameName": "Wiedźmin 2: Zabójcy Królów",
+    "producer": "CD Projekt Red",
+    "publisher": "Bandai Namco",
+    "releaseDate": 2011,
+    "steamId": 20920,
+    "imgName": "wiedzmin2.jpg",
+    "imgAlt": "Wiedźmin 2 rpg/action game",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id" : 18,
+    "gameName": "Wiedźmin 3: Dźiki Gon",
+    "producer": "CD Projekt Red",
+    "publisher": "CD Projekt Red",
+    "releaseDate": 2015,
+    "steamId": 292030,
+    "imgName": "thewitcher3.jpg",
+    "imgAlt": "Wiedźmin 3 tytuł",
+    "description": "Lorem ipsum"
+  },
+  {
+    "id" : 19,
+    "gameName": "World War 3",
+    "producer": "The Farm 51",
+    "publisher": "My.com",
+    "releaseDate": 2018,
+    "steamId": 674020,
+    "imgName": "worldwar3.jpg",
+    "imgAlt": "World War 3 - Shooter",
+    "description": "Lorem ipsum"
+  }
+]

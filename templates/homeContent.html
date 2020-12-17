@@ -1,0 +1,102 @@
+<main class="content">
+<div class="content__header">
+  <div class="content__header--left">
+    <h1 class="heading-primary">Steaming.pl</h1>
+  </div>
+  <div class="content__header--right">
+    <h2 class="heading-secondary">Liczba gier: <span class="heading-secondary--developer">{%GAMES_IN%}</span></h2>
+  </div>
+</div>
+<div class="content__main">
+  <div class="content__disclaimer">
+    <div class="content__bestsellers">
+      <h3 class="heading-tertiary">Najlepsza sprzedaż<h3>
+        
+        <button onclick="window.location.href='/game?id={%B_ID_1%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%B_IMG_NAME_1%}" alt="{%B_IMG_ALT_1%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%B_GAME_TITLE_1%}</h3>
+            <p class="game__description">Strona Steam: <span class="game__players">{%BEST_PAGE_1%}</span></p>
+          </div>
+        </button>
+
+        <button onclick="window.location.href='/game?id={%B_ID_2%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%B_IMG_NAME_2%}" alt="{%B_IMG_ALT_2%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%B_GAME_TITLE_2%}</h3>
+            <p class="game__description">Strona Steam: <span class="game__players">{%BEST_PAGE_2%}</span></p>
+          </div>
+        </button>
+        <button onclick="window.location.href='/game?id={%B_ID_3%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%B_IMG_NAME_3%}" alt="{%B_IMG_ALT_3%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%B_GAME_TITLE_3%}</h3>
+            <p class="game__description">Strona Steam: <span class="game__players">{%BEST_PAGE_3%}</span></p>
+          </div>
+        </button>
+        <button onclick="window.location.href='/game?id={%B_ID_4%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%B_IMG_NAME_4%}" alt="{%B_IMG_ALT_4%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%B_GAME_TITLE_4%}</h3>
+            <p class="game__description">Strona Steam: <span class="game__players">{%BEST_PAGE_4%}</span></p>
+          </div>
+        </button>
+        <button onclick="window.location.href='/game?id={%B_ID_5%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%B_IMG_NAME_5%}" alt="{%B_IMG_ALT_5%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%B_GAME_TITLE_5%}</h3>
+            <p class="game__description">Strona Steam:  <span class="game__players">{%BEST_PAGE_5%}</span></p>
+          </div>
+        </button>
+    </div>
+    <div class="content__popular">
+      <h3 class="heading-tertiary">Najwięcej graczy<h3>
+        
+        <button onclick="window.location.href='/game?id={%ID_1%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%IMG_NAME_1%}" alt="{%IMG_ALT_1%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%GAME_TITLE_1%}</h3>
+            <p class="game__description">Liczba graczy: <span class="game__players">{%PLAYERS_COUNT_NOW_1%}</span></p>
+          </div>
+        </button>
+
+        <button onclick="window.location.href='/game?id={%ID_2%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%IMG_NAME_2%}" alt="{%IMG_ALT_2%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%GAME_TITLE_2%}</h3>
+            <p class="game__description">Liczba graczy: <span class="game__players">{%PLAYERS_COUNT_NOW_2%}</span></p>
+          </div>
+        </button>
+        <button onclick="window.location.href='/game?id={%ID_3%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%IMG_NAME_3%}" alt="{%IMG_ALT_3%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%GAME_TITLE_3%}</h3>
+            <p class="game__description">Liczba graczy: <span class="game__players">{%PLAYERS_COUNT_NOW_3%}</span></p>
+          </div>
+        </button>
+        <button onclick="window.location.href='/game?id={%ID_4%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%IMG_NAME_4%}" alt="{%IMG_ALT_4%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%GAME_TITLE_4%}</h3>
+            <p class="game__description">Liczba graczy: <span class="game__players">{%PLAYERS_COUNT_NOW_4%}</span></p>
+          </div>
+        </button>
+        <button onclick="window.location.href='/game?id={%ID_5%}'" class="navigation__item game">
+          <img class="game__image" src="../img/{%IMG_NAME_5%}" alt="{%IMG_ALT_5%}">
+          <div class="game__details">
+            <h3 class="game__heading">{%GAME_TITLE_5%}</h3>
+            <p class="game__description">Liczba graczy: <span class="game__players">{%PLAYERS_COUNT_NOW_5%}</span></p>
+          </div>
+        </button>
+    </div>
+  </div>
+  <div class="content__ad">
+    <h2 class="heading-secondary heading-secondary--ad">Prace Serwisowe - 19.12.2020</h2>
+    <p class="paragraph">Ze względu na prace serwisowe, w śsobotę 19.12.2020 po godz. 18:00 serwis steaming.pl będzie zamknięty na parę godzin.</p> 
+    <p class="paragraph">Przepraszamy za utrudnienia.</p>
+  </div>
+</div>
+<div class="content__bottom">
+  <p class="content__steam-par">Powered by: <a class="footer__link" href="https://store.steampowered.com/">Steam</a></p>
+</div>
+</main>
