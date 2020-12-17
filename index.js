@@ -20,7 +20,7 @@ const dataObj = JSON.parse(data);
 // Get game stats data from JSON file
 const statsDir = fs.readFileSync(`${__dirname}/dev-data/stats.json`);
 let stats = JSON.parse(statsDir);
-
+//test
 const setData = function() {
   const checkedOn = new Date();
   const seconds = checkedOn.getSeconds() < 10 ? '0' + checkedOn.getSeconds() : checkedOn.getSeconds();
